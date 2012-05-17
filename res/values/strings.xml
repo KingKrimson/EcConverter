@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ConverterMainActivity!</string>
+    <string name="app_name">EcConverter - Conversions for Everything.</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About</string>
+    <string name="convert_button">Convert!</string>
+    <string name="convert_field">##.##</string>
+    
+    <string name="spinner_prompt">Pick a Unit :</string><string-array name="main_listView_entries">
+        <item>Temperature</item>
+        <item>Weight</item>
+        <item>Height</item>
+        <item>Length/Distance</item>
+        <item>Area</item>
+        <item>Volume</item>
+        <item>Velocity (Speed)</item>
+        <item>Pressure</item>
+    </string-array>
+    <string-array name="spinner_temp">
+        <item >Celsius</item>
+        <item >Fahrenheit</item>
+        <item >Kelvin</item>
+        <item >Rankine</item>
+        <item >Delisle</item>
+        <item >Newton</item>
+    </string-array>
+    <string-array name="spinner_weight"></string-array>
+    <string-array name="spinner_height"></string-array>
+    <string-array name="spinner_length"></string-array>
+    <string-array name="spinner_area"></string-array>
+    <string-array name="spinner_volume"></string-array>
+    <string-array name="spinner_velocity"></string-array>
+    <string-array name="spinner_pressure"></string-array>
+    
+    <string name="convert_title_temp">Temperature Conversion</string>
+    <string name="convert_title_weight">Weight Conversion</string>
+    <string name="convert_title_height">Height Conversion</string>
+    <string name="convert_title_area">Area Conversion</string>
+    <string name="convert_title_volume">Volume Conversion</string>
+    <string name="convert_title_length">Length / Distance Conversion</string>
+    <string name="convert_title_velocity">Velocity (Speed) Conversion</string>
+    <string name="convert_title_pressure">Pressure Conversion</string>
+    
+
+</resources>
